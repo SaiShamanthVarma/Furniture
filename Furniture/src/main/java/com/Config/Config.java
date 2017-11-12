@@ -32,9 +32,9 @@ public class Config {
 
 		DriverManagerDataSource dataSource = new DriverManagerDataSource();
 
-		dataSource.setUrl("jdbc:h2:tcp://localhost/~/Food-Cart");
+		dataSource.setUrl("jdbc:h2:tcp://localhost/~/Furniture");
 		dataSource.setDriverClassName("org.h2.Driver");
-		dataSource.setUsername("Food-Cart");
+		dataSource.setUsername("Furniture");
 		dataSource.setPassword("");
 
 		return dataSource;
