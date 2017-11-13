@@ -1,19 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html lang="en">
-
-<style type="text/css">
-
-.navbar-custom {
-    color: #FFFFFF;
-    background-color: #304FFE;
-}
-.navbar{
-border-radius:0px;
-}
-
-</style>
-
 <head>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <title>Furniture Header</title>
@@ -22,7 +9,7 @@ border-radius:0px;
 
 </head>
 <body>
-	<nav class="navbar navbar-default navbar-fixed-top navbar-custom" id="my-navbar">
+	<nav class="navbar navbar-default navbar-fixed-top " id="my-navbar">
 		<div class="container-fluid">
 			<div class="navbar-header ">
 				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">

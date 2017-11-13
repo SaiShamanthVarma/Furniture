@@ -1,20 +1,13 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<style type="text/css">
-
-.navbar-custom {
-    color: #FFFFFF;
-    background-color: #304FFE;
-}
-</style>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Furniture Footer</title>
 </head>
 <body>
 	
-	<div class="navbar navbar-default navbar-custom navbar-fixed-bottom" style="height:15px;">
+	<div class="navbar navbar-default navbar-fixed-bottom" style="height:15px;">
 		<div class="container-fluid">
 			<div class="navbar-text pull-left">
 				<p><marquee>&copy; <b><i>Furniture Store</i></b> </marquee></p>
